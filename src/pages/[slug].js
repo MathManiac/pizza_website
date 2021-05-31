@@ -32,6 +32,7 @@ export default function Pizza({pizza, otherPizzas}) {
                           </div>
                         )
                     })}
+                    <div><p>blabla</p></div>
                 </div>
             </div>
         </div>
